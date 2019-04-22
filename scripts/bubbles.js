@@ -20,7 +20,7 @@
 
     var radiusScale = d3.scaleSqrt().domain([0, 935]).range([20, 80]);
     
-    d3.csv('../data.csv')
+    d3.csv('data/data.csv')
     .then(function(data) {
         ready(data);
     })
