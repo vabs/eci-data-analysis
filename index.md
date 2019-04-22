@@ -1,4 +1,4 @@
-# ECI Seziure Data (General Election 2019)
+# ECI Seizure Data (General Election 2019)
         
 `Last Update on April 22, 2019`
 
