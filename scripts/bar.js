@@ -77,33 +77,16 @@
         .data(data)
         .enter()
         .append('g')
-
+        
         barGroups.append('rect')
         .attr('x', (s) => xScale(s.name))
         .attr('y', (s) => yScale(s.value) + margin)
         .attr('transform', `translate(0, ${-margin})`)
         .attr('height', (s) => height - yScale(s.value) - margin)
         .attr('width', xScale.bandwidth())
-        .attr('fill', (s) => { return s.name.indexOf(2019) > -1 ? '#e3191c' : '#ff7f00'})
-        // .on('mouseenter', function(d) {
-        //     d3.select(this)
-        //     .transition()
-        //     .duration(50)
-        //     .attr('opacity', 0.6)
-
-        //     d3.select(this).selectAll('.value')
-        //     .attr('fill', 'pink')
-        // })
-        // .on('mouseleave', function(d) {
-        //     d3.select(this)
-        //     .transition()
-        //     .duration(50)
-        //     .attr('opacity', 1)
-
-        //     d3.selectAll('.value')
-        //     .attr('fill', 'white')
-
-        // })
+        .attr('fill', (s) => { 
+            return s.name.indexOf(2019) > -1 ? '#e3191c' : 
+            s.name.indexOf(2014) > -1 ? '#e6ab03' : '#ff7f00'})
         
         barGroups.append('text')
         .attr('class', 'value')
