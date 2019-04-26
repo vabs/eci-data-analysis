@@ -48,6 +48,7 @@ Reading the reports we have encountered some of the data discrpency. Hence the c
 | Puducherry | Cash Seized | The reported amount *decreased* from 0.62 to 0.42cr | 24th April 2019 |
 | Puducherry | Freebies Seized | The reported amount *decreased* from 0.232 to 0.23cr | 24th April 2019 |
 | Telangana | Freebies Seized | The reported amount *decreased* from 0.47 to 0.46cr | 24th April 2019 |
+| Arunachal Pradesh | Cash Seized | The reported cash amount *decreased* from 7.27 to 7.05cr | 26th April 2019 |
 
 
 
