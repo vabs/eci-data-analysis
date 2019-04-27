@@ -9,12 +9,12 @@ Since the elections are undergoing, this page will be keep on updating as new da
 
 | Total Seizure|  In Rs. Cr. |
 |-------------|:------------:|
-| Total Cash Seizure| 752.92 |
-| Total Liquor Seizure | 242.518 |
-| Total Drugs/Narcotics Seizure | 1184.6 |
+| Total Cash Seizure| 778.9 |
+| Total Liquor Seizure | 244.358 |
+| Total Drugs/Narcotics Seizure | 1185.41 |
 | Total Precious Metals (Gold etc.) Seizure | 945.783 |
-| Total Freebies/Other Items Seizure | 50.907 |
-| **Grand Total** | **3176.73** |
+| Total Freebies/Other Items Seizure | 51.267 |
+| **Grand Total** | **3205.72** |
 
 <br />
 
@@ -49,6 +49,7 @@ Reading the reports we have encountered some of the data discrpency. Hence the c
 | Puducherry | Freebies Seized | The reported amount *decreased* from 0.232 to 0.23cr | 24th April 2019 |
 | Telangana | Freebies Seized | The reported amount *decreased* from 0.47 to 0.46cr | 24th April 2019 |
 | Arunachal Pradesh | Cash Seized | The reported cash amount *decreased* from 7.27 to 7.05cr | 26th April 2019 |
+| Maharastra | Freebies Seized | The reported amount *decreased* from 0.1 to 0.09cr | 27th April 2019 |
 
 
 
