@@ -1,6 +1,6 @@
 # ECI Seizure Data (General Election 2019)
         
-`Last Update on April 29, 2019`
+`Last Update on April 30, 2019`
 
 The General Elections of India 2019 has been proved to be the most expensive election which the country has ever seen. The amount of money being seized by Election Commission of India in insurmountable. Below is the analysis of the data provided by ECI.
 
@@ -9,12 +9,12 @@ Since the elections are undergoing, this page will be keep on updating as new da
 
 | Total Seizure|  In Rs. Cr. |
 |-------------|:------------:|
-| Total Cash Seizure| 785.26 |
-| Total Liquor Seizure | 249.038 |
-| Total Drugs/Narcotics Seizure | 1214.46 |
-| Total Precious Metals (Gold etc.) Seizure | 972.253 |
-| Total Freebies/Other Items Seizure | 53.167 |
-| **Grand Total** | **3274.18** |
+| Total Cash Seizure| 787.18 |
+| Total Liquor Seizure | 249.82 |
+| Total Drugs/Narcotics Seizure | 1215.5 |
+| Total Precious Metals (Gold etc.) Seizure | 972.378 |
+| Total Freebies/Other Items Seizure | 53.338 |
+| **Grand Total** | **3278.22** |
 
 <br />
 
@@ -52,6 +52,9 @@ Reading the reports we have encountered some of the data discrpency. Hence the c
 | Arunachal Pradesh | Cash Seized | The reported cash amount *decreased* from 7.27 to 7.05cr | 26th April 2019 |
 | Maharastra | Freebies Seized | The reported amount *decreased* from 0.1 to 0.09cr | 27th April 2019 |
 | Jharkhand | Cash Seized | The reported amount *decreased* from 2.89 to 2.87cr | 29th April 2019 |
+| Jharkhand | Cash Seized | The reported amount *decreased* from 2.87 to 2.66cr | 30th April 2019 |
+| Kerela | Freebies Seized | The reported amount *decreased* from 0.01 to 0.007cr | 30th April 2019 |
+| Arunachal Pradesh | Precious Metals Seized | The reported amount *decreased* from 35.24 to 35.235cr | 30th April 2019 |
 
 
 
