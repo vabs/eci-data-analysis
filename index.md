@@ -1,6 +1,6 @@
 # ECI Seizure Data (General Election 2019)
         
-`Last Update on May 1, 2019`
+`Last Update on May 2, 2019`
 
 The General Elections of India 2019 has been proved to be the most expensive election which the country has ever seen. The amount of money being seized by Election Commission of India in insurmountable. Below is the analysis of the data provided by ECI.
 
@@ -9,12 +9,12 @@ Since the elections are undergoing, this page will be keep on updating as new da
 
 | Total Seizure|  In Rs. Cr. |
 |-------------|:------------:|
-| Total Cash Seizure| 789.435 |
-| Total Liquor Seizure | 253.976 |
-| Total Drugs/Narcotics Seizure | 1221.13 |
-| Total Precious Metals (Gold etc.) Seizure | 972.428 |
-| Total Freebies/Other Items Seizure | 54.348 |
-| **Grand Total** | **3291.32** |
+| Total Cash Seizure| 793.28 |
+| Total Liquor Seizure | 255.07 |
+| Total Drugs/Narcotics Seizure | 1222.28 |
+| Total Precious Metals (Gold etc.) Seizure | 974.02 |
+| Total Freebies/Other Items Seizure | 54.387 |
+| **Grand Total** | **3299.04** |
 
 <br />
 
@@ -57,6 +57,8 @@ Reading the reports we have encountered some of the data discrpency. Hence the c
 | Arunachal Pradesh | Precious Metals Seized | The reported amount *decreased* from 35.24 to 35.235cr | 30th April 2019 |
 | Meghalaya | Cash Seized | The reported amount *decreased* from 0.72 to 0.715cr | 1st May 2019 |
 | Arunachal Pradesh | Cash Seized | The reported amount *decreased* from 7.16 to 7.14cr | 1st May 2019 |
+| Arunachal Pradesh | Liquor Seized | The reported amount *decreased* from 1.95 to 1.94cr | 2nd May 2019 |
+| Tamil Nadu | Precious Metal Seized | The reported amount *decreased* from 3212.8 to 3070.57kg | 2nd May 2019 |
 
 
 
