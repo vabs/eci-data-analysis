@@ -1,6 +1,6 @@
 # ECI Seizure Data (General Election 2019)
         
-`Last Update on May 11, 2019`
+`Last Update on May 12, 2019`
 
 The General Elections of India 2019 has been proved to be the most expensive election which the country has ever seen. The amount of money being seized by Election Commission of India in insurmountable. Below is the analysis of the data provided by ECI.
 
@@ -9,12 +9,12 @@ Since the elections are undergoing, this page will be keep on updating as new da
 
 | Total Seizure|  In Rs. Cr. |
 |-------------|:------------:|
-| Total Cash Seizure| 826.10 |
-| Total Liquor Seizure | 282.90 |
-| Total Drugs/Narcotics Seizure | 1258.11 |
-| Total Precious Metals (Gold etc.) Seizure | 984.83 |
-| Total Freebies/Other Items Seizure | 56.81 |
-| **Grand Total** | **3408.75** |
+| Total Cash Seizure| 827.23 |
+| Total Liquor Seizure | 285.13 |
+| Total Drugs/Narcotics Seizure | 1261.34 |
+| Total Precious Metals (Gold etc.) Seizure | 984.88 |
+| Total Freebies/Other Items Seizure | 57.08 |
+| **Grand Total** | **3415.65** |
 
 <br />
 
@@ -49,7 +49,7 @@ Reading the reports we have encountered some of the data discrpency. Hence the c
 | Puducherry | Freebies Seized | The reported amount *decreased* from 0.232 to 0.23cr | 24th April 2019 |
 | Telangana | Freebies Seized | The reported amount *decreased* from 0.47 to 0.46cr | 24th April 2019 |
 | Chandigrah | Liquor Seized | The reported amount *decreased* from 0.03 to 0.01 lahk ltr. | 24th April 2019 |
-| Arunachal Pradesh | Cash Seized | The reported cash amount *decreased* from 7.27 to 7.05cr | 26th April 2019 |
+| Arunachal Pradesh | Cash Seized | The reported amount *decreased* from 7.27 to 7.05cr | 26th April 2019 |
 | Maharastra | Freebies Seized | The reported amount *decreased* from 0.1 to 0.09cr | 27th April 2019 |
 | Jharkhand | Cash Seized | The reported amount *decreased* from 2.89 to 2.87cr | 29th April 2019 |
 | Jharkhand | Cash Seized | The reported amount *decreased* from 2.87 to 2.66cr | 30th April 2019 |
@@ -61,6 +61,8 @@ Reading the reports we have encountered some of the data discrpency. Hence the c
 | Tamil Nadu | Precious Metal Seized | The reported amount *decreased* from 3212.8 to 3070.57kg | 2nd May 2019 |
 | Jharkhand | Cash Seized | The reported amount *decreased* from 3.93 to 2.96cr |7th May 2019 |
 | Puducherry | Cash Seized | The reported amount *decreased* from 0.41 to 0.39cr | 9th May 2019 |
+| Jharkand | Precious Metals Seized | The reported amount *decreased* from 0.04 to 0.005cr | 12th May 2019 |
+| NCT of Delhi | Liquor Amount Seized | The reported amount *decreased* from 3.93 to 3.83cr | 12th May 2019 |
 
 
 ### References
