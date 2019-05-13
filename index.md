@@ -1,6 +1,6 @@
 # ECI Seizure Data (General Election 2019)
         
-`Last Update on May 12, 2019`
+`Last Update on May 13, 2019`
 
 The General Elections of India 2019 has been proved to be the most expensive election which the country has ever seen. The amount of money being seized by Election Commission of India in insurmountable. Below is the analysis of the data provided by ECI.
 
@@ -9,12 +9,12 @@ Since the elections are undergoing, this page will be keep on updating as new da
 
 | Total Seizure|  In Rs. Cr. |
 |-------------|:------------:|
-| Total Cash Seizure| 827.23 |
-| Total Liquor Seizure | 285.13 |
-| Total Drugs/Narcotics Seizure | 1261.34 |
-| Total Precious Metals (Gold etc.) Seizure | 984.88 |
-| Total Freebies/Other Items Seizure | 57.08 |
-| **Grand Total** | **3415.65** |
+| Total Cash Seizure| 828.01 |
+| Total Liquor Seizure | 286.01 |
+| Total Drugs/Narcotics Seizure | 1262.57 |
+| Total Precious Metals (Gold etc.) Seizure | 984.89 |
+| Total Freebies/Other Items Seizure | 57.22 |
+| **Grand Total** | **3418.69** |
 
 <br />
 
