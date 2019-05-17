@@ -19,7 +19,7 @@ Since the elections are undergoing, this page will be keep on updating as new da
 <br />
 
 {::nomarkdown}
-        <h3>Hover over each state to view th3434.44e breakdown of data.</h3>
+        <h3>Hover over each state to view the breakdown of data.</h3>
         <div id="chart"></div>
 
         <script src="scripts/d3.min.js"></script>
