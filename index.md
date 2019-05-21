@@ -1,6 +1,6 @@
 # ECI Seizure Data (General Election 2019)
         
-`Last Update on May 19, 2019`
+`Last Update on May 21, 2019`
 
 The General Elections of India 2019 has been proved to be the most expensive election which the country has ever seen. The amount of money being seized by Election Commission of India in insurmountable. Below is the analysis of the data provided by ECI.
 
@@ -9,12 +9,12 @@ Since the elections are undergoing, this page will be keep on updating as new da
 
 | Total Seizure|  In Rs. Cr. |
 |-------------|:------------:|
-| Total Cash Seizure| 839.03 |
-| Total Liquor Seizure | 294.41 |
-| Total Drugs/Narcotics Seizure | 1270.37 |
-| Total Precious Metals (Gold etc.) Seizure | 986.76 |
-| Total Freebies/Other Items Seizure | 58.56 |
-| **Grand Total** | **3449.12** |
+| Total Cash Seizure| 841.22 |
+| Total Liquor Seizure | 298.96 |
+| Total Drugs/Narcotics Seizure | 1271.88 |
+| Total Precious Metals (Gold etc.) Seizure | 986.93 |
+| Total Freebies/Other Items Seizure | 59.59 |
+| **Grand Total** | **3458.57** |
 
 <br />
 
@@ -70,6 +70,7 @@ Reading the reports we have encountered some of the data discrpency. Hence the c
 | Punjab | Liquor Seized | The reported amount *decreased* from 13.94 to 13.87 lakh ltr. | 19th May 2019 |
 | Jharkhand | Cash Seized | The reported amount *decreased* from 3.49 to 3.45cr | 19th May 2019 |
 | Gujrat | Precious Metal Seized | The reported cash amount *decreased* from 4.39 to 4.35cr | 19th May 2019 |
+| Gujrat | Cash Seized | The reported cash amount *decreased* from 9.53 to 9.52 cr | 21st May 2019 |
 
 
 ### References
