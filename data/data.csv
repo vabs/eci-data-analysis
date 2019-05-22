@@ -1,6 +1,6 @@
 ﻿id,name,cash,liquor quantity (litres),liquor value,drugs quantity (kg),drugs value,precious metal quantity,precious metal value,other items,total value
 Andaman and Nicobar Island (UT),Andaman and Nicobar Island (UT),0.43,,0.09,14.59,0.07,,,,0.59
-Andhra Pradesh,Andhra Pradesh,139.21,7.75,29.11,,1.96,,36.52,22.34,229.14
+Andhra Pradesh,Andhra Pradesh,140.78,7.8,29.27,,2.15,,36.52,22.5,231.22
 Arunachal Pradesh,Arunachal Pradesh,7.14,,1.94,1.6,0.02,0,0,0.82,9.92
 Assam,Assam,13.05,1.77,1.51,1166,1.09,2.5,0.79,0.23,16.67
 Bihar,Bihar,9.22,1.21,,715,,62.53,,,9.22
@@ -8,17 +8,17 @@ Chandigarh (UT),Chandigarh (UT),0.21,0.09,0.11,,0.75,0,0,0,1.07
 Chhattisgarh,Chhattisgarh,7.78,0.07,0.13,996,0.4,0.5,0.17,0.85,9.33
 Dadra and Nagar Haveli (UT),Dadra and Nagar Haveli (UT),2.05,0.09,0.21,0,0,0,0,0.03,2.29
 Daman and Diu (UT),Daman and Diu (UT),1.03,0.07,0.12,0,0,7.65,0.03,0.23,1.41
-Goa,Goa,2.82,1.33,8.44,10.64,0.9,0,0.18,0.06,12.4
-Gujarat,Gujarat,9.52,5.23,14.88,130.73,524.34,45.05,4.35,0,553.09
-Haryana,Haryana,7.29,4.46,7.74,,9.77,,1.13,0.003,25.933
-Himachal Pradesh,Himachal Pradesh,0.44,10,9.33,137,1.49,0,0,0,11.26
+Goa,Goa,2.82,1.33,8.44,10.65,0.9,0,0.36,0.06,12.58
+Gujarat,Gujarat,9.52,5.35,15.3,130.73,524.34,45.05,4.35,0,553.51
+Haryana,Haryana,7.29,4.47,7.76,,9.8,,1.13,0.003,25.983
+Himachal Pradesh,Himachal Pradesh,0.44,10,9.33,137,1.52,0,0,0,11.29
 Jammu and Kashmir,Jammu and Kashmir,0.8,0.03,0.02,,1.5,0,0,0,2.32
-Jharkhand,Jharkhand,3.45,3.18,1.8,,2.51,,0.005,1.37,9.135
+Jharkhand,Jharkhand,3.45,3.21,1.81,,2.51,,0.005,1.37,9.145
 Karnataka,Karnataka,39.41,9.6,37.85,159,0.12,52,9.55,1.35,88.28
-Kerala,Kerala,10.63,0.06,0.88,,24.06,,3.99,0.01,39.57
+Kerala,Kerala,10.63,0.06,0.89,,24.19,,3.99,0.01,39.71
 Lakshadweep,Lakshadweep,0,0.0001,0.0003,0.09,0.005,0,0,0,0.0053
-Madhya Pradesh,Madhya Pradesh,31.01,34.36,34.36,20581,11.7,1719,9.14,11.88,98.09
-Maharashtra,Maharashtra,53.08,42.67,32.62,15742,10.37,,71.21,0.09,167.37
+Madhya Pradesh,Madhya Pradesh,31.01,34.36,34.44,20581,11.72,1719,9.14,11.89,98.2
+Maharashtra,Maharashtra,53.21,43.33,33.18,15746,10.38,,71.21,0.09,168.07
 Manipur,Manipur,1.15,0.44,0.44,,31.96,,5.13,0.004,38.684
 Meghalaya,Meghalaya,0.72,,0.2,,0.003,0,0,0,0.923
 Mizoram,Mizoram,0,,0.24,,0.36,0,0,0,0.6
@@ -26,12 +26,12 @@ Nagaland,Nagaland,0.92,0.62,1.99,221,0.79,0,0,0,3.7
 NCT of Delhi,NCT of Delhi,34.69,1.43,3.9,,374.67,,12.84,0,426.1
 Odisha,Odisha,3.86,1.64,4.19,0,0,0,0,0.13,8.18
 Puducherry,Puducherry,0.39,0.1,0.17,,,0,0,0.23,0.79
-Punjab,Punjab,32.92,13.92,10.74,8073,218.49,467,22.56,0.32,285.03
+Punjab,Punjab,32.92,13.93,10.76,8176,218.69,467,22.56,0.32,285.25
 Rajasthan,Rajasthan,6.82,6.49,13.92,,15.57,,7.75,7.29,51.35
 Sikkim,Sikkim,0.24,0.02,0.04,,0.01,0,0,0,0.29
-Tamil Nadu,Tamil Nadu,229.74,2.23,3.8,,0.53,3113,709.67,8.24,951.98
-Telangana,Telangana,70.98,3.88,7.31,2257,3.77,6.3,1.26,0.57,83.89
-Tripura,Tripura,0.41,0.4,0.82,2591,1.16,0,0,0,2.39
+Tamil Nadu,Tamil Nadu,229.74,2.23,3.81,,0.53,3113,709.67,8.24,951.99
+Telangana,Telangana,70.98,3.9,7.34,1982,3.79,6.31,1.26,0.57,83.94
+Tripura,Tripura,0.41,0.4,0.82,2598,1.17,0,0,0,2.4
 Uttarakhand,Uttarakhand,3.37,0.8,2.9,,0.77,0.6,0.21,0.04,7.29
-Uttar Pradesh,Uttar Pradesh,48.1,16.62,45.66,24985,28.32,735.56,71.79,0,193.87
-West Bengal,West Bengal,68.34,17.02,21.5,,4.42,,18.65,3.5,116.41
+Uttar Pradesh,Uttar Pradesh,48.64,16.64,45.82,24990,28.33,735.56,71.79,0,194.58
+West Bengal,West Bengal,68.34,17.39,21.95,,4.42,,18.65,3.5,116.86
